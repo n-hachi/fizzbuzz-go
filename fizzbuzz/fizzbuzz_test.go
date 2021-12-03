@@ -52,7 +52,7 @@ func TestFizzbuzz(t *testing.T) {
 		},
 		{
 			// a multiple of 15, case2
-			name:     "multiple of 5, case2",
+			name:     "multiple of 15, case2",
 			input:    uint64(150),
 			expected: "FizzBuzz",
 		},
